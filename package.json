@@ -1,5 +1,5 @@
 {
-  "name": "docusaurus-to-md",
+  "name": "@arvoretech/docusaurus-to-md",
   "version": "0.1.0",
   "description": "Scrape Docusaurus sites and convert to clean Markdown files",
   "type": "module",
